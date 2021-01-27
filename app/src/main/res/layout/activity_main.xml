@@ -6,7 +6,8 @@
     android:layout_height="match_parent"
     tools:context="com.example.musicplayeruas.MainActivity"
     android:orientation="vertical"
-    android:gravity="center_horizontal">
+    android:gravity="center_horizontal"
+    android:background="@drawable/imagesbg">
 
     <ImageView
         android:layout_width="wrap_content"
